@@ -104,7 +104,7 @@ public class MyLinkedList {
         return  null;
     }
 
-    private int size(){
+    public int size(){
         return size;
     }
 
